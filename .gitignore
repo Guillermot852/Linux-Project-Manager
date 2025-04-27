@@ -1,0 +1,57 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.vscode/
+
+# IDE and editor config files
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Python egg and distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.cache
+
+# Flake8 cache
+.flake8
+
+# Coverage reports
+*.coverage
+coverage.xml
+*.cover
+*.hypothesis/
+nosetests.xml
+*.tox/
+*.nox/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments and virtualenvs
+venv/
+env/
+
+# Python-specific files
+*.db
+*.sqlite3
+*.pkl
